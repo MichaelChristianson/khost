@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vsai911/Token-UI/issues"
+    "url": "https://github.com/MichaelChristianson/khost/issues"
   },
-  "homepage": "https://github.com/vsai911/Token-UI#readme",
+  "homepage": "https://github.com/MichaelChristianson/khost/blob/master/sai/ReadMe.txt",
   "dependencies": {
     "express": "^4.13.4",
     "jquery": "2.2.3"
